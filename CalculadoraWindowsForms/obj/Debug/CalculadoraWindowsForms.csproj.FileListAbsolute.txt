@@ -1,0 +1,10 @@
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.exe.config
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.exe
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.pdb
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Form1.resources
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Properties.Resources.resources
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.exe
+C:\Users\Marco\source\repos\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.pdb
